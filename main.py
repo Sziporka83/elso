@@ -15,3 +15,4 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 # Created by BM - GDDNBY
+#Ez az első módosítás!
