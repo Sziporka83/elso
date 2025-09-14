@@ -1,2 +1,2 @@
-Ez az első feladatunnk, amit fel kellett tölteni Teams-be
+Ez az első feladatunk, amit fel kellett tölteni Teams-be
 Balog Mónika- GDDNBY
